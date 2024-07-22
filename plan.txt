@@ -8,6 +8,10 @@ dataset - https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-web
 how to execute this project?
     - read thru project objective and about the dataset
     - go through other peoples' notebook to understand their methods
+        - https://www.kaggle.com/code/adham3lam/e-commerce-linear-regression-from-scratch
+        - https://www.kaggle.com/code/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app/notebook
+        - https://www.kaggle.com/code/omaremad0023/liner-regression-eccomerce
+        - https://www.kaggle.com/code/ciochdawid/e-commerce-data-analysis-linear-regression
     - watch tutorial on how to execute similar project
     - list out project structure in notebook
     - get started with shit
