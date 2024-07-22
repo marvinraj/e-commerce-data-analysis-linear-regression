@@ -1,0 +1,13 @@
+why do this project?
+    - get better at linear regression analysis
+    - learn how to visualize data
+    - learn how to read data from visualization/plots/diagrams
+
+dataset - https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website/data
+
+how to execute this project?
+    - read thru project objective and about the dataset
+    - go through other peoples' notebook to understand their methods
+    - watch tutorial on how to execute similar project
+    - list out project structure in notebook
+    - get started with shit
