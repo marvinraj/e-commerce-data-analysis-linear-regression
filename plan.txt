@@ -15,3 +15,8 @@ how to execute this project?
     - watch tutorial on how to execute similar project
     - list out project structure in notebook
     - get started with shit
+
+what to do?
+    1. import libraries
+    2. read data
+    3. clean data??
