@@ -35,6 +35,11 @@ interesting reading materials --
         - https://www.datacamp.com/tutorial/guide-to-data-cleaning-in-python
     4. how to perform EDA 
         - https://www.youtube.com/watch?v=xi0vhXFPegw
+    5. how to build a linear regression model
+        - https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/
+        - https://medium.com/@sds152/data-pre-processing-for-linear-regression-in-machine-learning-4b73ec48392a
+        - https://mlforanalytics.com/2020/03/07/linear-regression-steps/
+        - https://medium.datadriveninvestor.com/steps-for-linear-regression-algorithm-simplified-daf685dcceee
 
 
 
@@ -43,6 +48,13 @@ steps to analyse data --
         a. data understanding
         b. data preparation/cleaning
         c. feature understanding (univariate analysis)
-        d. feature relationships
+        d. feature relationships (bivariate analysis)
+        e. correlation analysis
     2. Linear Regression Analysis
-        a. 
+        a. steps for linear regression analysis
+            1. split data into training and testing sets
+            2. normalize the dataset
+            3. build linear regression model
+            4. train the model
+            5. evaluate linear regression model
+            6. visualize the results
