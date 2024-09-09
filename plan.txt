@@ -17,6 +17,7 @@ how to execute this project?
         - https://www.kaggle.com/code/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app/notebook
         - https://www.kaggle.com/code/omaremad0023/liner-regression-eccomerce
         - https://www.kaggle.com/code/ciochdawid/e-commerce-data-analysis-linear-regression
+        - https://www.kaggle.com/code/muhammadehabmuhammad/customer-s-spending-forecasting-streamlit-app
     - watch tutorial on how to execute similar project
     - list out project structure in notebook
     - get started with shit
