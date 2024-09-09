@@ -41,6 +41,11 @@ interesting reading materials --
         - https://medium.com/@sds152/data-pre-processing-for-linear-regression-in-machine-learning-4b73ec48392a
         - https://mlforanalytics.com/2020/03/07/linear-regression-steps/
         - https://medium.datadriveninvestor.com/steps-for-linear-regression-algorithm-simplified-daf685dcceee
+    5. how to evaluate linear regression model
+        - https://www.youtube.com/watch?v=bshvmxxWm64&t=113s
+        - https://medium.com/@cmukesh8688/evaluation-of-linear-regression-model-6e8edbb068f
+        - https://www.linkedin.com/pulse/evaluating-linear-regression-models-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/
+        - https://www.scaler.com/topics/data-science/residual-analysis/
 
 
 
