@@ -1,13 +1,5 @@
 # E-Commerce Data Analysis Project
 
-## Table of Contents
-- [Project Overview] ()
-- [Why This Project?]
-- [Dataset]
-- [My Plan to Execute This Project]
-- [How to Run the Notebook]
-- [Useful Resources]
-
 ## Project Overview
 This project focuses on analyzing e-commerce data to gain insights into customer behavior and predict future trends using linear regression. The main goal is to build a predictive model that helps understand customer spending patterns on mobile apps and websites.
 
