@@ -52,4 +52,3 @@ npm install pandas numpy seaborn scikit-learn matplotlib
 
 These are resources I used to complete this project by fully understanding any related concepts.
 > Locate the file **plan.txt** and scroll to section labeled **interesting reading materials**.
-```
